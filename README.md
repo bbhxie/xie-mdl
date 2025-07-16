@@ -1,7 +1,7 @@
-h1> HELLO WORLD :3 </h1>
+HELLO WORLD :3
 
 # 💫 About Me:
-👋 Hi there!<br>🌱 I'm currently pursuing a Bachelor of Science in Information Technology (BSIT).<br>🤝 I'm looking for collaboration opportunities and guidance to keep growing and improving.<br>👯 I enjoy learning with others, especially as I dive deeper into Frontend Development.<br>✨ I'm passionate, optimistic, and always determined to grow — and no, I’m not a player 😉<br>🍳 Fun fact about me: I love cooking and eating — food is my love language!<br><br>🎯 My dream? To one day have the skills and confidence I’m working so hard to build as a student.
+👋 Hi there!<br>🌱 I'm currently pursuing a Bachelor of Science in Information Technology (BSIT).<br>🤝 I'm looking for collaboration opportunities and guidance to keep growing and improving.<br>👯 I enjoy learning with others, especially as I dive deeper into Frontend Development.<br>✨ I'm passionate, optimistic, and always determined to grow — and no, I’m not a player 😉🤍<br>🍳 Fun fact about me: I love cooking and eating — food is my love language!<br><br>🎯 My dream? To one day have the skills and confidence I’m working so hard to build as a student.
 
 
 # 💻 Tech Stack:
