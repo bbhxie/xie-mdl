@@ -10,10 +10,10 @@ HELLO WORLD :3
 ![](https://nirzak-streak-stats.vercel.app/?user=bbhxie&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbhxie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##🏁 Progress Markers
+## 🏁 Progress Markers
 ![](https://github-profile-trophy.vercel.app/?username=bbhxie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###🎯 Stay Inspired
+### 🎯 Stay Inspired
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
